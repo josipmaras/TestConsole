@@ -12,6 +12,7 @@ namespace TestConsole
             Console.WriteLine("Hello from another class");
             Console.WriteLine("Something new");
             Console.WriteLine("Hello once more");
+            Console.WriteLine("Hello again");
         }
     }
 }
