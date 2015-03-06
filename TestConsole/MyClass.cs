@@ -10,6 +10,7 @@ namespace TestConsole
         public static void SayHello()
         {
             Console.WriteLine("Hello from another class");
+            Console.WriteLine("Something new");
         }
     }
 }
